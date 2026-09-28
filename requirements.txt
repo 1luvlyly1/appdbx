@@ -1,0 +1,8 @@
+databricks-sdk
+requests
+pyyaml
+pillow
+pypdfium2
+beautifulsoup4
+fpdf2
+weasyprint
